@@ -8,6 +8,7 @@
     "hubot": "^2.9.3",
     "hubot-devops-reactions": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
+    "hubot-dogeme": "^1.0.0",
     "hubot-google-images": "^0.1.0",
     "hubot-google-translate": "^0.1.0",
     "hubot-help": "^0.1.1",
