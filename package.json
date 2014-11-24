@@ -6,6 +6,7 @@
   "description": "Our pal for all the lulz at AxiaCore",
   "dependencies": {
     "hubot": "^2.9.3",
+    "hubot-alias": "^0.1.6",
     "hubot-devops-reactions": "^1.0.2",
     "hubot-diagnostics": "0.0.1",
     "hubot-dogeme": "^1.0.0",
