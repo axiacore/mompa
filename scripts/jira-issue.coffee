@@ -1,3 +1,3 @@
 module.exports = (robot) ->
-  robot.hear /([A-Z]+-[0-9]+)/i, (msg) ->
-    msg.send 'https://axiacore.atlassian.net/browse/'+msg.match[1]
+  robot.hear /(\s|^)([A-Z]+-[0-9]+)/, (msg) ->
+    msg.send 'https://axiacore.atlassian.net/browse/' + msg.match[2]
