@@ -1,6 +1,7 @@
 [
   "hubot-alias",
   "hubot-jenkins",
+  "hubot-whatthecommit",
   "hubot-diagnostics",
   "hubot-help",
   "hubot-heroku-keepalive",
